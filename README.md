@@ -2,8 +2,6 @@
 
 ## Exercícios
 
-- *Exercícios Docker**
-
 ### 🟢 **Fácil**
 
 1. **Rodando um container básico**
