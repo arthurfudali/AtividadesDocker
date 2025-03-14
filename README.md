@@ -1,5 +1,14 @@
 # Atividades Docker
 
+## Objetivos
+
+Desenvolver e treinar habilidades de Docker
+
+## Requisitos
+- Docker
+- Internet
+- Ubuntu para Subsistema Windows para Linux (Windows Subsystem for Linux) com o Docker habilitado
+
 ## Exercícios
 
 ### 🟢 **Fácil**
